@@ -47,5 +47,5 @@
   "js/ts.updateImportsOnFileMove.enabled": "always",
   "workbench.editor.enablePreview": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "editor.lineHeight": 2.3
+  "editor.lineHeight": 1.8
 }
